@@ -7,12 +7,16 @@
     android:layout_height="match_parent"
     tools:context="marc.com.viewadavanced.MainActivity">
 
-    <marc.com.viewadavanced.view.SpiderView
+    <!--<marc.com.viewadavanced.view.SpiderView
         android:id="@+id/spider_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:valueColor="@color/colorPrimary"
         app:pointColor="@color/colorAccent"
-        app:valueTextSize="10dp"/>
+        app:valueTextSize="10dp"/>-->
+
+    <marc.com.viewadavanced.view.BezierCircle
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 
 </RelativeLayout>
