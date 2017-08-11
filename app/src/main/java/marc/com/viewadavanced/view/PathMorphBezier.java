@@ -19,7 +19,7 @@ import android.view.animation.BounceInterpolator;
  * Date: 2017/8/11
  * Time: 10:36
  * Version: 1.0
- * Description:
+ * Description:拖动曲线
  * Email:wangchengda1990@gmail.com
  **/
 public class PathMorphBezier extends View {

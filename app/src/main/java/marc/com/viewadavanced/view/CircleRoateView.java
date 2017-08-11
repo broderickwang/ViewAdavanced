@@ -17,7 +17,7 @@ import android.view.animation.LinearInterpolator;
  * Date: 2017/8/11
  * Time: 09:04
  * Version: 1.0
- * Description:
+ * Description:仿雅虎，圆圈转动，缩放
  * Email:wangchengda1990@gmail.com
  **/
 public class CircleRoateView extends View {
