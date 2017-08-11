@@ -15,7 +15,7 @@
         app:pointColor="@color/colorAccent"
         app:valueTextSize="10dp"/>-->
 
-    <marc.com.viewadavanced.view.CircleRoateView
+    <marc.com.viewadavanced.view.PathMorphBezier
         android:id="@+id/test"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>

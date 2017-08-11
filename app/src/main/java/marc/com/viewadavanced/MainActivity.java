@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		this.test = (CircleRoateView) findViewById(R.id.test);
+//		this.test = (CircleRoateView) findViewById(R.id.test);
 
 		/*SpiderView spiderview = (SpiderView) findViewById(R.id.spider_view);
 		List<SpiderData> datas = new ArrayList<>();
