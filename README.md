@@ -1,2 +1,2 @@
 # ViewAdavanced
- ![仿雅虎加载](https://github.com/broderickwang/ViewAdavanced/blob/master/shoot/QQ20170811-100402-HD.mp4) 
+ ![仿雅虎加载](https://github.com/broderickwang/ViewAdavanced/blob/master/shoot/2017-08-11%2010.22.12.gif) 
