@@ -15,7 +15,8 @@
         app:pointColor="@color/colorAccent"
         app:valueTextSize="10dp"/>-->
 
-    <marc.com.viewadavanced.view.BezierCircle
+    <marc.com.viewadavanced.view.CircleRoateView
+        android:id="@+id/test"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 
