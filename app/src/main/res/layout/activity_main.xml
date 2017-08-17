@@ -15,9 +15,14 @@
         app:pointColor="@color/colorAccent"
         app:valueTextSize="10dp"/>-->
 
-    <marc.com.viewadavanced.view.MsgView
+   <!-- <marc.com.viewadavanced.view.MsgView
         android:id="@+id/test"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="match_parent"/>-->
+    <marc.com.viewadavanced.view.LebalImage
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:src="@mipmap/screen"
+        android:layout_height="wrap_content"/>
 
 </RelativeLayout>
