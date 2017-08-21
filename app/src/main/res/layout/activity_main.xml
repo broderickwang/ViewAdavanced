@@ -19,10 +19,12 @@
         android:id="@+id/test"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>-->
-    <marc.com.viewadavanced.view.LebalImage
+    <!--<marc.com.viewadavanced.view.LebalImage
         android:layout_marginTop="30dp"
         android:layout_width="wrap_content"
         android:src="@mipmap/screen"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"/>-->
+    <marc.com.viewadavanced.view.BezierMove android:layout_width="match_parent"
+                                             android:layout_height="match_parent"/>
 
 </RelativeLayout>
